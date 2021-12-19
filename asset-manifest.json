@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Weatherly/static/css/main.d56e0c1c.chunk.css",
+    "main.css": "/Weatherly/static/css/main.33e3fb9e.chunk.css",
     "main.js": "/Weatherly/static/js/main.0393da7d.chunk.js",
     "main.js.map": "/Weatherly/static/js/main.0393da7d.chunk.js.map",
     "runtime-main.js": "/Weatherly/static/js/runtime-main.3da59d48.js",
@@ -10,15 +10,15 @@
     "static/js/3.8db5861b.chunk.js": "/Weatherly/static/js/3.8db5861b.chunk.js",
     "static/js/3.8db5861b.chunk.js.map": "/Weatherly/static/js/3.8db5861b.chunk.js.map",
     "index.html": "/Weatherly/index.html",
-    "static/css/main.d56e0c1c.chunk.css.map": "/Weatherly/static/css/main.d56e0c1c.chunk.css.map",
+    "static/css/main.33e3fb9e.chunk.css.map": "/Weatherly/static/css/main.33e3fb9e.chunk.css.map",
     "static/js/2.c301e66b.chunk.js.LICENSE.txt": "/Weatherly/static/js/2.c301e66b.chunk.js.LICENSE.txt",
     "static/media/Thunder storm.fe5962a2.png": "/Weatherly/static/media/Thunder storm.fe5962a2.png",
-    "static/media/App.css": "/Weatherly/static/media/jr-korpa-9XngoIpxcEo-unsplash.c417f622.jpg"
+    "static/media/App.css": "/Weatherly/static/media/jr-korpa-9XngoIpxcEo-unsplash.0f53033a.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.3da59d48.js",
     "static/js/2.c301e66b.chunk.js",
-    "static/css/main.d56e0c1c.chunk.css",
+    "static/css/main.33e3fb9e.chunk.css",
     "static/js/main.0393da7d.chunk.js"
   ]
 }
